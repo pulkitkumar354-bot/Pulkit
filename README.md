@@ -61,33 +61,13 @@ Student developer passionate about Full Stack Development, App Development, and 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌟 Fun Fact
 
 > I love combining creativity, technology, AI, and 3D design to build futuristic digital experiences.
 
----
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
 
 <p align="center">
   ⭐ Learning by building creative and innovative projects every day.
